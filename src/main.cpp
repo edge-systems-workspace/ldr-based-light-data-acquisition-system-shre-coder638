@@ -44,6 +44,5 @@ void loop() {
     Serial.println(brightnessStatus);
     Serial.println("---------------------------------");
 
-    // TODO 9:
-    // Add delay (500ms or 1 second)
+    delay(1000);
 }
